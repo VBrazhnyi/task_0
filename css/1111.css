@@ -1,0 +1,11 @@
+body{
+				background: url(../img/011.jpg); 
+				background-size: 100%;
+				background-attachment: fixed;
+			}
+
+			p{font-family:Arial;
+			text-align: justify}
+			h1{	font-family:sans-serif;}
+			.qwertycolor{color: #808080}
+			.tableone{ color:rgb(100,100,100); }
